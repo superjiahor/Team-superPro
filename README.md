@@ -143,6 +143,14 @@ Members:
 
 URL: https://github.com/superjiahor/Team-superProo
 
+## Tita titanium
+
+Members:
+
+1. Teh Wei Xuan
+2. Chung Wei Heng
+3. Peh Le Hui
+
 ## The Triple Entente
 
 Members: 
@@ -176,13 +184,5 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 3. Khaw Xuan Zhen
 
 URL: https://github.com/jaz-lynn/pygame.git
-
-##TIta titanium
-
-Members:
-
-1. Teh Wei Xuan
-2. Chung Wei Heng
-3. Peh Le Hui
 
 URL: https://github.com/titah-titanium/PSC-python-hackathon-2024
