@@ -40,7 +40,7 @@ Members:
 2. Siva
 3. Kabeer
 
-URL: https://github.com/YWYin-E/python2024hackathon/
+URL: https://github.com/YWYin-E/Rhythmic-cat/
 
 ## Mavericks 
 
