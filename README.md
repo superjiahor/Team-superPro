@@ -30,7 +30,7 @@ URL: https://github.com/Yi6933/Rocket_Game
 3. Nasuha
 4. Syaza
 
-URL:https://github.com/zulhasni/pong.py
+URL: https://github.com/zulhasni/jet.py
 
 ## GigaSigma
 
